@@ -4,7 +4,7 @@
   "description": "Get and create your own recipies",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir .dist"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Shamik Karmakar",
   "license": "ISC",
